@@ -1,3 +1,6 @@
 body {
     background-color: rgba(246, 148, 163, 0.951);
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 100px;
 }
